@@ -8,6 +8,27 @@ Galeri menampilkan lima foto dari arsip WhatsApp yang diberikan, disimpan di `as
 
 Desain responsif berbahasa Indonesia dengan profil perusahaan, produk kemiri dan jahe, pendekatan kualitas, kerja sama ekspor, dan kontak. Tautan WhatsApp menggunakan nomor internasional `6289999999991`. Tautan peta menunjukkan wilayah Kedewan, bukan alamat kantor yang telah diverifikasi. Ilustrasi SVG merupakan contoh visual; logo UJR adalah konsep sementara. Font Google membutuhkan internet, dengan font lokal sebagai cadangan.
 
+## Deploy dengan Docker
+
+Jalankan perintah berikut dari folder proyek yang berisi `Dockerfile`:
+
+```sh
+docker build -t ungkul-jaya-raya .
+docker run -d --name ungkul-jaya-raya --restart unless-stopped -p 8080:80 ungkul-jaya-raya
+```
+
+Buka `http://localhost:8080` atau `http://IP-VPS:8080`. Image menggunakan Nginx untuk menyajikan HTML, CSS, JavaScript, dan seluruh foto di `assets/`. Tidak memerlukan Node.js atau database di server.
+
+Alternatif menggunakan Docker Compose:
+
+```sh
+docker compose up -d --build
+```
+
+Port bawaan adalah `8080`. Untuk menggunakan port HTTP standar di VPS, buat file `.env` berisi `PORT=80`, lalu jalankan perintah Compose di atas. Pastikan port tersebut tersedia dan diizinkan oleh firewall VPS. Untuk domain dengan HTTPS, arahkan reverse proxy seperti Caddy atau Nginx Proxy Manager ke layanan ini; container menyajikan HTTP pada port `80`.
+
+Setelah mengubah konten, jalankan `docker compose up -d --build` untuk memperbarui situs. Gunakan `docker compose logs -f` untuk melihat log dan `docker compose down` untuk menghentikan layanan. Pilih salah satu cara menjalankan container agar port tidak bentrok.
+
 ## Saran sebelum publikasi
 
 1. Tambahkan alamat kantor/gudang lengkap dan titik peta yang benar. Verifikasi nomor WhatsApp serta email aktif.
