@@ -1,0 +1,29 @@
+{
+  "mode": "built-in image_gen",
+  "images": [
+    {
+      "file": "kunyit.webp",
+      "prompt": "Use case: product-mockup. Asset type: product catalog image for an Indonesian commodities company website. Make a photorealistic professional commercial photograph, landscape 3:2 composition. Warm ivory matte stone tabletop and softly blurred warm beige backdrop, gentle daylight from upper left, natural contact shadows, lifelike imperfect textures, restrained elegant agricultural catalog styling. Product centered in middle 65 percent with clear breathing room above and below for HTML overlays and cropping to wide cards. No text, no watermark, no logos, no people, no packaging, no collage, no illustration, no CGI. Subject: a small pile of whole fresh turmeric rhizomes with earthy thin orange-brown skin, a few cleanly sliced ends showing vivid deep orange flesh; anatomically accurate slender turmeric fingers, not ginger."
+    },
+    {
+      "file": "jahe.webp",
+      "prompt": "Use case: product-mockup. Asset type: product catalog image for an Indonesian commodities company website. Make a photorealistic professional commercial photograph, landscape 3:2 composition. Warm ivory matte stone tabletop and softly blurred warm beige backdrop, gentle daylight from upper left, natural contact shadows, lifelike imperfect textures, restrained elegant agricultural catalog styling. Product centered in middle 65 percent with clear breathing room above and below for HTML overlays and cropping to wide cards. No text, no watermark, no logos, no people, no packaging, no collage, no illustration, no CGI. Subject: a small pile of fresh mature ginger rhizomes, branching knobby beige roots with fine natural skin wrinkles and two slices showing pale yellow fibrous flesh. No turmeric."
+    },
+    {
+      "file": "serai.webp",
+      "prompt": "Use case: product-mockup. Asset type: product catalog image for an Indonesian commodities company website. Make a photorealistic professional commercial photograph, landscape 3:2 composition. Warm ivory matte stone tabletop and softly blurred warm beige backdrop, gentle daylight from upper left, natural contact shadows, lifelike imperfect textures, restrained elegant agricultural catalog styling. Product centered in middle 65 percent with clear breathing room above and below for HTML overlays and cropping to wide cards. No text, no watermark, no logos, no people, no packaging, no collage, no illustration, no CGI. Subject: a neat loose bunch of fresh culinary lemongrass stalks laid diagonally, bulbous pale ivory bases, slender light green stems tapering to green leaves, realistic fine longitudinal fibers. Entire bunch visible, no cut off subjects."
+    },
+    {
+      "file": "lada.webp",
+      "prompt": "Use case: product-mockup. Asset type: product catalog image for an Indonesian commodities company website. Make a photorealistic professional commercial photograph, landscape 3:2 composition. Warm ivory matte stone tabletop and softly blurred warm beige backdrop, gentle daylight from upper left, natural contact shadows, lifelike imperfect textures, restrained elegant agricultural catalog styling. Product centered in middle 65 percent with clear breathing room above and below for HTML overlays and cropping to wide cards. No text, no watermark, no logos, no people, no packaging, no collage, no illustration, no CGI. Subject: two low unglazed shallow ceramic bowls side by side, left filled with wrinkled black peppercorns and right filled with naturally creamy ivory white peppercorns, several peppercorns scattered nearby, realistic tiny spherical grains with finely detailed texture."
+    },
+    {
+      "file": "arang.webp",
+      "prompt": "Use case: product-mockup. Asset type: product catalog image for an Indonesian commodities company website. Make a photorealistic professional commercial photograph, landscape 3:2 composition. Warm ivory matte stone tabletop and softly blurred warm beige backdrop, gentle daylight from upper left, natural contact shadows, lifelike imperfect textures, restrained elegant agricultural catalog styling. Product centered in middle 65 percent with clear breathing room above and below for HTML overlays and cropping to wide cards. No text, no watermark, no logos, no people, no packaging, no collage, no illustration, no CGI. Subject: a small stack of irregular natural hardwood lump charcoal pieces, matte black, visible charred wood grain and fissures, a few tiny fragments around base. Real wood charcoal, not pressed briquettes, no flames, no glowing embers. Clear separation from light backdrop."
+    },
+    {
+      "file": "hero.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: portrait hero photograph for an Indonesian commodities website. Create a photorealistic professional editorial still life, portrait 4:5 composition. Whole fresh ginger roots and fresh turmeric roots with some sliced orange ends on a warm beige stone tabletop in the foreground, fresh lemongrass stalks extending diagonally upward behind them, a small unglazed shallow ceramic dish of black and ivory white peppercorns. Soft out of focus tropical greenery in the distant background. Earthy cream, muted green and warm gold palette. Natural soft window daylight, tactile lifelike imperfect textures, grounded shadows, realistic produce sizes. Main still life in central lower two thirds, leave the top 20 percent as softly blurred natural green space for arched image clipping. Elegant commodities catalog photo. No words, no logos, no watermark, no people, no buildings, no collage, no CGI, no illustration."
+    }
+  ]
+}

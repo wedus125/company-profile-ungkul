@@ -6,7 +6,7 @@ Pilihan bahasa Indonesia / English tersedia di header. Terjemahan mencakup konte
 
 Galeri menampilkan lima foto dari arsip WhatsApp yang diberikan, disimpan di `assets/gallery/`. Sertakan folder `assets` saat menyalin atau memublikasikan situs. Foto dapat diklik untuk melihat ukuran penuh dan ditutup dengan tombol tutup atau Escape.
 
-Desain responsif berbahasa Indonesia dengan profil perusahaan, produk kemiri dan jahe, pendekatan kualitas, kerja sama ekspor, dan kontak. Tautan WhatsApp menggunakan nomor internasional `6289999999991`. Tautan peta menunjukkan wilayah Kedewan, bukan alamat kantor yang telah diverifikasi. Ilustrasi SVG merupakan contoh visual; logo UJR adalah konsep sementara. Font Google membutuhkan internet, dengan font lokal sebagai cadangan.
+Desain responsif berbahasa Indonesia dengan profil perusahaan, produk kunyit, jahe, serai, lada hitam/putih, dan arang kayu keras, pendekatan kualitas, kerja sama ekspor, dan kontak. Tautan WhatsApp menggunakan nomor internasional `6281330105014`. Tautan peta menunjukkan wilayah Bojonegoro, bukan alamat kantor yang telah diverifikasi. Gambar utama dan lima gambar produk di `assets/products/` merupakan contoh visual realistis yang dibuat dengan AI, dioptimalkan ke WebP; prompt lengkap tersimpan di `assets/products/generation.json`. Gambar ini bukan dokumentasi stok aktual perusahaan; logo UJR adalah konsep sementara. Font Google membutuhkan internet, dengan font lokal sebagai cadangan.
 
 ## Deploy dengan Docker
 
@@ -33,10 +33,12 @@ Setelah mengubah konten, jalankan `docker compose up -d --build` untuk memperbar
 
 1. Tambahkan alamat kantor/gudang lengkap dan titik peta yang benar. Verifikasi nomor WhatsApp serta email aktif.
 2. Ganti ilustrasi dengan foto asli produk, proses sortasi, pengemasan, dan gudang. Gunakan logo resmi.
-3. Tetapkan spesifikasi masing-masing produk: jenis jahe, bentuk kemiri, ukuran, toleransi cacat, kadar air, grade, dan metode pemeriksaan. Cantumkan hasil uji jika tersedia.
+3. Tetapkan spesifikasi masing-masing produk: bentuk kunyit dan jahe, kondisi serai, jenis lada, jenis kayu untuk arang, ukuran, toleransi cacat, kadar air, grade, dan metode pemeriksaan. Cantumkan hasil uji jika tersedia.
 4. Lengkapi kapasitas pasokan, stok, minimum order, pilihan kemasan, waktu persiapan, dan skema harga yang telah disetujui.
 5. Verifikasi kesiapan ekspor dengan dokumen dan kemampuan operasional aktual; cantumkan sertifikasi, legalitas, negara tujuan, atau pengalaman ekspor hanya jika ada bukti. Draf tidak mengklaim sertifikasi ataupun rekam jejak yang belum diberikan.
 6. Siapkan versi bahasa Inggris, lembar spesifikasi PDF, serta ketentuan transaksi/pengiriman bagi calon pembeli internasional.
 7. Untuk situs produksi, gunakan domain resmi, HTTPS, dan metadata berbagi sosial dengan foto resmi. Pertimbangkan font yang disimpan lokal. Jika menambahkan formulir atau analitik, siapkan pemberitahuan privasi sesuai data yang benar-benar dikumpulkan.
 
 Konten spesifikasi dan kesiapan pengiriman pada contoh ini membutuhkan konfirmasi perusahaan sebelum dipublikasikan.
+
+Klik kartu produk atau tombol spesifikasi untuk membuka dialog pengelompokan ukuran, kualitas, dan parameter pemeriksaan mutu. Pengelompokan ini adalah pilihan untuk diskusi pengadaan, bukan klaim grade resmi atau jaminan stok. Batas numerik ukuran, toleransi, dan hasil uji ditetapkan sesuai kesepakatan pesanan. Konten tersedia dalam bahasa Indonesia dan Inggris.
