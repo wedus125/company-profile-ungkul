@@ -6,7 +6,9 @@ Pilihan bahasa Indonesia / English tersedia di header. Terjemahan mencakup konte
 
 Galeri menampilkan lima foto dari arsip WhatsApp yang diberikan, disimpan di `assets/gallery/`. Sertakan folder `assets` saat menyalin atau memublikasikan situs. Foto dapat diklik untuk melihat ukuran penuh dan ditutup dengan tombol tutup atau Escape.
 
-Desain responsif berbahasa Indonesia dengan profil perusahaan, produk kunyit, jahe, serai, lada hitam/putih, dan arang kayu keras, pendekatan kualitas, kerja sama ekspor, dan kontak. Tautan WhatsApp menggunakan nomor internasional `6281330105014`. Tautan peta menunjukkan wilayah Bojonegoro, bukan alamat kantor yang telah diverifikasi. Gambar utama dan lima gambar produk di `assets/products/` merupakan contoh visual realistis yang dibuat dengan AI, dioptimalkan ke WebP; prompt lengkap tersimpan di `assets/products/generation.json`. Gambar ini bukan dokumentasi stok aktual perusahaan; logo UJR adalah konsep sementara. Font Google membutuhkan internet, dengan font lokal sebagai cadangan.
+Desain responsif berbahasa Indonesia dan Inggris dengan profil perusahaan, empat kelompok produk (kunyit, jahe, serai, dan lada hitam/putih), pendekatan kualitas, kerja sama ekspor, dan kontak. Konten diselaraskan dengan company profile v8: bentuk badan usaha Perseroan Perorangan, tanggal pendirian 15 Juli 2026 sesuai arahan perusahaan, NIB 1507260104554, NPWP 1000000010258392, dan KBLI 46319 (2025). Kontak WhatsApp `6281330105014` dan email `ungkuljayaraya@gmail.com`. Lokasi operasional Bojonegoro, Jawa Timur, Indonesia 62164; tautan peta menunjukkan wilayah Bojonegoro.
+
+Logo A pilihan perusahaan tersedia di `assets/brand/logo-ujr-a.png`. Foto utama, kartu produk, dialog spesifikasi, dan galeri menggunakan arsip foto asli di `assets/gallery/`. Foto dipertahankan proporsinya. Ilustrasi lama di `assets/products/` tidak lagi ditampilkan. Arang tidak lagi disertakan dalam daftar produk. Font Google membutuhkan internet, dengan font lokal sebagai cadangan.
 
 ## Deploy dengan Docker
 
@@ -32,11 +34,11 @@ Setelah mengubah konten, jalankan `docker compose up -d --build` untuk memperbar
 ## Saran sebelum publikasi
 
 1. Tambahkan alamat kantor/gudang lengkap dan titik peta yang benar. Verifikasi nomor WhatsApp serta email aktif.
-2. Ganti ilustrasi dengan foto asli produk, proses sortasi, pengemasan, dan gudang. Gunakan logo resmi.
-3. Tetapkan spesifikasi masing-masing produk: bentuk kunyit dan jahe, kondisi serai, jenis lada, jenis kayu untuk arang, ukuran, toleransi cacat, kadar air, grade, dan metode pemeriksaan. Cantumkan hasil uji jika tersedia.
+2. Tambahkan dokumentasi proses sortasi, pengemasan, dan gudang jika tersedia.
+3. Tetapkan spesifikasi masing-masing produk: bentuk kunyit dan jahe, kondisi serai, jenis lada, ukuran, toleransi cacat, kadar air, grade, dan metode pemeriksaan. Cantumkan hasil uji jika tersedia.
 4. Lengkapi kapasitas pasokan, stok, minimum order, pilihan kemasan, waktu persiapan, dan skema harga yang telah disetujui.
 5. Verifikasi kesiapan ekspor dengan dokumen dan kemampuan operasional aktual; cantumkan sertifikasi, legalitas, negara tujuan, atau pengalaman ekspor hanya jika ada bukti. Draf tidak mengklaim sertifikasi ataupun rekam jejak yang belum diberikan.
-6. Siapkan versi bahasa Inggris, lembar spesifikasi PDF, serta ketentuan transaksi/pengiriman bagi calon pembeli internasional.
+6. Lengkapi lembar spesifikasi PDF serta ketentuan transaksi/pengiriman bagi calon pembeli internasional; versi bahasa Inggris situs sudah tersedia.
 7. Untuk situs produksi, gunakan domain resmi, HTTPS, dan metadata berbagi sosial dengan foto resmi. Pertimbangkan font yang disimpan lokal. Jika menambahkan formulir atau analitik, siapkan pemberitahuan privasi sesuai data yang benar-benar dikumpulkan.
 
 Konten spesifikasi dan kesiapan pengiriman pada contoh ini membutuhkan konfirmasi perusahaan sebelum dipublikasikan.
