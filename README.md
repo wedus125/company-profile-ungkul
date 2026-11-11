@@ -2,11 +2,13 @@
 
 Buka `index.html` di browser. Tidak memerlukan instalasi atau proses build. Simpan `index.html`, `styles.css`, dan `script.js` dalam folder yang sama.
 
+Favicon menggunakan simbol dari logo resmi perusahaan. Sertakan `favicon.ico`, `site.webmanifest`, dan folder `assets/` saat menerbitkan situs. Ikon Apple, Android, dan maskable serta gambar pratinjau tautan 1200 × 630 tersedia di `assets/brand/`. Metadata Open Graph dan Twitter Card ikut berganti bahasa. Saat domain produksi ditetapkan, gunakan URL HTTPS absolut untuk `og:image` dan `twitter:image`, lalu tambahkan canonical dan `og:url` sesuai alamat resmi. Manifest menyediakan identitas saat menambahkan situs ke layar utama; fitur offline belum disediakan.
+
 Pilihan bahasa Indonesia / English tersedia di header. Terjemahan mencakup konten, navigasi, metadata, label aksesibilitas, dan pesan WhatsApp. Pilihan disimpan di browser jika penyimpanan lokal tersedia; bahasa awal adalah Indonesia.
 
 Galeri menampilkan lima foto dari arsip WhatsApp yang diberikan, disimpan di `assets/gallery/`. Sertakan folder `assets` saat menyalin atau memublikasikan situs. Foto dapat diklik untuk melihat ukuran penuh dan ditutup dengan tombol tutup atau Escape.
 
-Desain responsif berbahasa Indonesia dan Inggris dengan profil perusahaan, empat kelompok produk (kunyit, jahe, serai, dan lada hitam/putih), pendekatan kualitas, kerja sama ekspor, dan kontak. Konten diselaraskan dengan company profile v8: bentuk badan usaha Perseroan Perorangan, tanggal pendirian 15 Juli 2026 sesuai arahan perusahaan, NIB 1507260104554, NPWP 1000000010258392, dan KBLI 46319 (2025). Kontak WhatsApp `6281330105014` dan email `penawaran@ungkuljayaraya.com`. Lokasi operasional Bojonegoro, Jawa Timur, Indonesia 62164; tautan peta menunjukkan wilayah Bojonegoro.
+Desain responsif berbahasa Indonesia dan Inggris dengan profil perusahaan, empat kelompok produk (kunyit, jahe, serai, dan lada hitam/putih), pendekatan kualitas, kerja sama ekspor, dan kontak. Perusahaan diperkenalkan sebagai perusahaan perdagangan dan pemasok rempah (spice trading company). Konten diselaraskan dengan company profile v11: bentuk badan usaha Perseroan Perorangan, tanggal pendirian 15 Juli 2026 sesuai arahan perusahaan, NIB 1507260104554, NPWP 1000000010258392, dan KBLI 46319 (2025). Kontak WhatsApp `6281330105014` dan email `penawaran@ungkuljayaraya.com`.
 
 Logo A pilihan perusahaan tersedia di `assets/brand/logo-ujr-a.png`. Foto utama, kartu produk, dialog spesifikasi, dan galeri menggunakan arsip foto asli di `assets/gallery/`. Foto dipertahankan proporsinya. Ilustrasi lama di `assets/products/` tidak lagi ditampilkan. Arang tidak lagi disertakan dalam daftar produk. Font Google membutuhkan internet, dengan font lokal sebagai cadangan.
 
@@ -33,7 +35,7 @@ Setelah mengubah konten, jalankan `docker compose up -d --build` untuk memperbar
 
 ## Saran sebelum publikasi
 
-1. Tambahkan alamat kantor/gudang lengkap dan titik peta yang benar. Verifikasi nomor WhatsApp serta email aktif.
+1. Verifikasi nomor WhatsApp serta email aktif.
 2. Tambahkan dokumentasi proses sortasi, pengemasan, dan gudang jika tersedia.
 3. Tetapkan spesifikasi masing-masing produk: bentuk kunyit dan jahe, kondisi serai, jenis lada, ukuran, toleransi cacat, kadar air, grade, dan metode pemeriksaan. Cantumkan hasil uji jika tersedia.
 4. Lengkapi kapasitas pasokan, stok, minimum order, pilihan kemasan, waktu persiapan, dan skema harga yang telah disetujui.
@@ -43,4 +45,4 @@ Setelah mengubah konten, jalankan `docker compose up -d --build` untuk memperbar
 
 Konten spesifikasi dan kesiapan pengiriman pada contoh ini membutuhkan konfirmasi perusahaan sebelum dipublikasikan.
 
-Klik kartu produk atau tombol spesifikasi untuk membuka dialog pengelompokan ukuran, kualitas, dan parameter pemeriksaan mutu. Pengelompokan ini adalah pilihan untuk diskusi pengadaan, bukan klaim grade resmi atau jaminan stok. Batas numerik ukuran, toleransi, dan hasil uji ditetapkan sesuai kesepakatan pesanan. Konten tersedia dalam bahasa Indonesia dan Inggris.
+Klik kartu produk atau tombol spesifikasi untuk melihat bentuk produk dan parameter pemeriksaan mutu, lalu mendiskusikan kebutuhan pengadaan. Spesifikasi, ketersediaan, kemasan, dan jumlah minimum pesanan dikonfirmasi saat penawaran. Konten tersedia dalam bahasa Indonesia dan Inggris. Klasifikasi ukuran dan kualitas serta lokasi perusahaan tidak ditampilkan.

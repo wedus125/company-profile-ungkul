@@ -12,75 +12,33 @@ const translations = {
   "Nomor Induk Berusaha": "Business Identification Number",
   "NPWP": "Tax Identification Number",
   "KBLI 2025": "KBLI 2025",
-  "Jawa Timur, Indonesia 62164": "East Java, Indonesia 62164",
   "Lada hitam dan putih di atas daun pisang": "Black and white pepper on a banana leaf",
   "Kunyit dalam bentuk bubuk dan irisan": "Turmeric powder and slices",
   "Jahe dalam bentuk bubuk dan irisan": "Ginger powder and slices",
   "Potongan serai di atas daun pisang": "Cut lemongrass on a banana leaf",
 
-  "Pengelompokan ukuran": "Size classification",
-  "Pengelompokan kualitas": "Quality classification",
   "Parameter spesifikasi": "Specification parameters",
-  "Pilihan pengelompokan untuk diskusi pengadaan. Batas ukuran, toleransi, dan hasil uji disepakati per pesanan.": "Classification options for sourcing discussions. Size limits, tolerances, and test results are agreed for each order.",
-  "Lihat spesifikasi & klasifikasi": "View specifications & classifications",
+  "Informasi produk untuk mendukung kebutuhan pengadaan Anda. Spesifikasi dan ketentuan pesanan dikonfirmasi saat penawaran.": "Product information to support your sourcing needs. Specifications and order terms are confirmed when quoting.",
+  "Lihat spesifikasi produk": "View product specifications",
   "Tutup spesifikasi": "Close specifications",
   "SPESIFIKASI PRODUK": "PRODUCT SPECIFICATIONS",
-  "Kelompok": "Group",
-  "Kriteria pengelompokan": "Classification criteria",
-  "Ketersediaan setiap kelompok, kemasan, dan jumlah minimum pesanan dikonfirmasi saat penawaran.": "Availability of each group, packaging, and minimum order quantities are confirmed when quoting.",
+  "Ketersediaan produk, kemasan, dan jumlah minimum pesanan dikonfirmasi saat penawaran.": "Product availability, packaging, and minimum order quantities are confirmed when quoting.",
   "Diskusikan spesifikasi kunyit": "Discuss turmeric specifications",
   "Bentuk produk": "Product form",
   "Segar, kering, atau irisan dibahas sesuai kebutuhan.": "Fresh, dried, or sliced forms are discussed as required.",
   "Pemeriksaan mutu": "Quality checks",
   "Kebersihan, kondisi rimpang, kadar air untuk produk kering, dan parameter uji sesuai permintaan.": "Cleanliness, rhizome condition, moisture for dried products, and requested test parameters.",
-  "Besar": "Large",
-  "Rimpang utuh berukuran relatif besar; rentang diameter dan berat ditentukan bersama.": "Relatively large whole rhizomes; diameter and weight ranges are agreed together.",
-  "Sedang": "Medium",
-  "Rimpang berukuran sedang dengan rentang ukuran yang disepakati.": "Medium rhizomes within an agreed size range.",
-  "Kecil / potongan": "Small / pieces",
-  "Rimpang kecil atau potongan; ukuran dan proporsi potongan ditentukan sesuai penggunaan.": "Small rhizomes or pieces; size and proportion of pieces depend on the intended use.",
-  "Sortasi pilihan": "Selected sorting",
-  "Keseragaman ukuran, keutuhan rimpang, dan kebersihan menjadi fokus sortasi.": "Sorting focuses on size uniformity, whole rhizomes, and cleanliness.",
-  "Sortasi standar": "Standard sorting",
-  "Rentang ukuran lebih beragam; batas cacat fisik dan kebersihan disepakati.": "A wider size range; physical defect and cleanliness limits are agreed.",
-  "Bahan olahan": "For processing",
-  "Rimpang atau potongan untuk pengolahan; kondisi bahan dan kebersihan tetap diperiksa.": "Rhizomes or pieces for processing; condition and cleanliness are still checked.",
   "Diskusikan spesifikasi jahe": "Discuss ginger specifications",
   "Jenis & bentuk": "Variety & form",
   "Jenis jahe serta bentuk segar, kering, atau irisan dikonfirmasi sebelum pemesanan.": "Ginger variety and fresh, dried, or sliced form are confirmed before ordering.",
   "Kebersihan, kondisi rimpang, kadar air produk kering, dan toleransi kerusakan fisik.": "Cleanliness, rhizome condition, dried product moisture, and physical damage tolerances.",
-  "Rimpang utuh dengan ukuran relatif besar; berat dan diameter menjadi dasar kesepakatan.": "Relatively large whole rhizomes; weight and diameter form the agreed criteria.",
-  "Rimpang sedang dengan keseragaman ukuran sesuai pesanan.": "Medium rhizomes with size uniformity specified in the order.",
-  "Rimpang kecil atau pecahan untuk kebutuhan pengolahan dengan ukuran yang disepakati.": "Small rhizomes or pieces for processing within an agreed size range.",
-  "Rimpang utuh, ukuran lebih seragam, serta kebersihan dan kondisi permukaan diperhatikan.": "Whole rhizomes, more uniform sizes, and attention to cleanliness and surface condition.",
-  "Ukuran dapat lebih beragam dengan toleransi kondisi fisik yang disepakati.": "Sizes may vary more, within agreed physical condition tolerances.",
-  "Potongan atau rimpang untuk olahan; kesegaran dan kondisi bahan diperiksa.": "Pieces or rhizomes for processing; freshness and product condition are checked.",
   "Diskusikan spesifikasi serai": "Discuss lemongrass specifications",
   "Batang utuh, dipangkas, atau dipotong sesuai kebutuhan pembeli.": "Whole, trimmed, or cut stalks according to buyer requirements.",
   "Diameter pangkal, panjang batang, kebersihan, kesegaran, dan kondisi daun.": "Base diameter, stalk length, cleanliness, freshness, and leaf condition.",
-  "Batang besar": "Large stalks",
-  "Dikelompokkan menurut diameter pangkal dan panjang batang yang disepakati.": "Grouped by agreed base diameter and stalk length.",
-  "Batang sedang": "Medium stalks",
-  "Diameter pangkal dan panjang sedang dengan rentang ukuran sesuai pesanan.": "Medium base diameters and lengths within the ordered range.",
-  "Batang kecil / potongan": "Small stalks / cut pieces",
-  "Batang kecil atau potongan untuk pengolahan; panjang potongan disesuaikan.": "Small stalks or pieces for processing; cut length is tailored to requirements.",
-  "Batang lebih seragam, pangkal utuh, bersih, dan kondisi segar diperiksa.": "More uniform stalks with intact bases; cleanliness and freshness are checked.",
-  "Variasi ukuran lebih luas dengan kondisi batang dan kebersihan yang disepakati.": "A wider size range with agreed stalk condition and cleanliness.",
-  "Potongan untuk bumbu atau pengolahan; kondisi bahan tetap menjadi kriteria penerimaan.": "Cut pieces for seasoning or processing; product condition remains an acceptance criterion.",
   "Diskusikan spesifikasi lada hitam / putih": "Discuss black / white pepper specifications",
   "Jenis produk": "Product type",
   "Lada hitam dan lada putih dipisahkan dalam spesifikasi serta penawaran.": "Black and white pepper are specified and quoted separately.",
   "Kadar air, densitas curah (g/l), benda asing, butiran ringan atau pecah, dan uji lain sesuai permintaan.": "Moisture, bulk density (g/l), foreign matter, light or broken grains, and other requested tests.",
-  "Butiran besar": "Large grains",
-  "Dikelompokkan menggunakan diameter butiran atau ukuran ayakan yang disepakati.": "Grouped using agreed grain diameter or sieve size.",
-  "Butiran sedang": "Medium grains",
-  "Rentang ukuran menengah dengan hasil pengayakan sesuai kebutuhan.": "A medium size range with sieving results tailored to requirements.",
-  "Butiran kecil / pecah": "Small / broken grains",
-  "Butiran kecil atau pecah dipisahkan; proporsinya ditentukan dalam spesifikasi.": "Small or broken grains are separated; their proportion is specified in the order.",
-  "Fokus pada keseragaman butiran serta pembatasan benda asing dan butiran ringan.": "Focus on grain uniformity and limits for foreign matter and light grains.",
-  "Rentang ukuran dan toleransi butiran pecah ditetapkan bersama pembeli.": "Size range and broken grain tolerances are agreed with the buyer.",
-  "Bahan giling": "For grinding",
-  "Butiran dengan ukuran lebih beragam untuk penggilingan; kriteria kebersihan tetap ditentukan.": "A wider grain size range for grinding; cleanliness criteria remain specified.",
   "Kunyit": "Turmeric",
   "Rimpang berwarna kuning untuk bumbu, minuman, dan bahan baku industri. Bentuk serta kondisi produk dibahas sesuai kebutuhan pembeli.": "A yellow rhizome for seasonings, beverages, and industrial ingredients. Product form and condition are discussed according to buyer requirements.",
   "Bentuk, kebersihan, kondisi rimpang*": "Form, cleanliness, rhizome condition*",
@@ -109,21 +67,20 @@ const translations = {
   'Bubuk rempah berwarna kuning dengan irisan bahan kering': 'Yellow spice powder with sliced dried ingredients',
   'Potongan batang rempah di atas daun pisang': 'Sliced aromatic stalks on a banana leaf',
   'Tutup foto': 'Close photo',
-  'PT. UNGKUL JAYA RAYA — Komoditas Nusantara': 'PT. UNGKUL JAYA RAYA — Indonesian Commodities',
-  'Dari Bojonegoro, untuk pasar dunia.': 'From Bojonegoro to the world.',
+  'PT. UNGKUL JAYA RAYA — Perdagangan Rempah Indonesia': 'PT. UNGKUL JAYA RAYA — Indonesian Spice Trading Company',
+  'Komoditas Indonesia untuk pasar dunia.': 'Indonesian commodities for global markets.',
   'Tentang kami': 'About us',
   'Produk': 'Products',
   'Kualitas': 'Quality',
   'Ekspor': 'Exports',
   'Hubungi kami': 'Contact us',
-  'SUMBER DAYA LOKAL. JANGKAUAN GLOBAL.': 'LOCAL RESOURCES. GLOBAL REACH.',
+  'PERDAGANGAN REMPAH. KEMITRAAN GLOBAL.': 'SPICE TRADING. GLOBAL PARTNERSHIPS.',
   'Kekayaan alam,': 'Natural abundance,',
   'kualitas yang': 'quality you',
   'Anda percaya.': 'can trust.',
-  'Mitra distribusi kunyit, jahe, serai, lada hitam dan putih untuk kebutuhan bisnis Anda. Berbasis di Bojonegoro, kami menghubungkan komoditas Indonesia dengan peluang pasar dunia.': 'Your distribution partner for turmeric, ginger, lemongrass, black and white pepper. Based in Bojonegoro, we connect Indonesian commodities with opportunities in global markets.',
+  'Mitra perdagangan rempah untuk kebutuhan bisnis Anda. Kami membantu pengadaan kunyit, jahe, serai, serta lada hitam dan putih sesuai spesifikasi dan kebutuhan pembeli.': 'Your spice trading partner for business needs. We help source turmeric, ginger, lemongrass, black and white pepper according to buyer specifications and requirements.',
   'Jelajahi produk': 'Explore products',
   'Diskusikan kebutuhan Anda': 'Discuss your needs',
-  'Jawa Timur, Indonesia': 'East Java, Indonesia',
   'Komoditas pilihan': 'Selected commodities',
   'DARI BUMI NUSANTARA': 'FROM THE INDONESIAN ARCHIPELAGO',
   'Komoditas terpilih': 'Selected commodities',
@@ -134,8 +91,8 @@ const translations = {
   'Tumbuh dari lokal.': 'Rooted locally.',
   'Melangkah': 'Reaching',
   'lebih jauh.': 'further.',
-  'PT. UNGKUL JAYA RAYA bergerak di bidang distribusi kunyit, jahe, serai, lada hitam dan putih, dengan basis operasional di Bojonegoro.': 'PT. UNGKUL JAYA RAYA distributes turmeric, ginger, lemongrass, black and white pepper, with operations based in Bojonegoro.',
-  'Kami hadir untuk menjadi mitra pengadaan bagi pelaku usaha, distributor, dan calon pembeli internasional. Setiap kebutuhan dimulai dengan komunikasi yang jelas: jenis produk, kriteria kualitas, pengemasan, hingga rencana pengiriman.': 'We serve businesses, distributors, and prospective international buyers as a sourcing partner. Every inquiry starts with clear communication about product types, quality criteria, packaging, and delivery plans.',
+  'PT. UNGKUL JAYA RAYA merupakan perusahaan perdagangan rempah Indonesia (trading company) yang berfokus pada pengadaan kunyit, jahe, serai, serta lada hitam dan putih untuk kebutuhan bisnis.': 'PT. UNGKUL JAYA RAYA is an Indonesian spice trading company focused on sourcing turmeric, ginger, lemongrass, black and white pepper for business needs.',
+  'Kami membantu pelaku usaha dan calon pembeli internasional membahas kebutuhan produk, mengonfirmasi ketersediaan dari pemasok, serta menyusun penawaran. Spesifikasi, volume, kemasan, dan rencana pengiriman disepakati sebelum pemesanan.': 'We help businesses and prospective international buyers define product requirements, confirm supplier availability, and prepare quotations. Specifications, volume, packaging, and delivery plans are agreed before ordering.',
   'Mari bangun kemitraan': 'Build a partnership with us',
   '02 / KOMODITAS KAMI': '02 / OUR COMMODITIES',
   'Hasil alam.': 'Natural produce.',
@@ -162,16 +119,16 @@ const translations = {
   'Komunikasi terbuka': 'Open communication',
   'Dapatkan konfirmasi ketersediaan dan penawaran agar perencanaan pengadaan lebih jelas.': 'Confirm availability and pricing to plan your sourcing with greater clarity.',
   '04 / PELUANG EKSPOR': '04 / EXPORT OPPORTUNITIES',
-  'Dari Bojonegoro,': 'From Bojonegoro,',
+  'Dari Indonesia,': 'From Indonesia,',
   'menjangkau': 'reaching',
   'dunia.': 'the world.',
-  'Kami membuka kerja sama distribusi untuk pasar internasional. Mari diskusikan kebutuhan komoditas, negara tujuan, dan persyaratan impor untuk menyusun penawaran yang sesuai.': 'We welcome distribution partnerships for international markets. Discuss your commodity requirements, destination country, and import requirements with us to prepare a suitable offer.',
+  'Kami membuka kerja sama perdagangan dan pengadaan rempah untuk pasar internasional. Mari diskusikan kebutuhan komoditas, negara tujuan, dan persyaratan impor untuk menyusun penawaran yang sesuai.': 'We welcome spice trading and sourcing partnerships for international markets. Discuss your commodity requirements, destination country, and import requirements with us to prepare a suitable offer.',
   'Bicarakan kebutuhan ekspor': 'Discuss export requirements',
   'LANGKAH MENUJU KERJA SAMA': 'STEPS TO WORKING TOGETHER',
   'Sampaikan kebutuhan': 'Share your requirements',
   'Produk, spesifikasi, volume, dan negara tujuan.': 'Product, specifications, volume, and destination country.',
-  'Konfirmasi & penawaran': 'Confirmation & quotation',
-  'Ketersediaan, harga, kemasan, dan ketentuan transaksi.': 'Availability, pricing, packaging, and transaction terms.',
+  'Konfirmasi pasokan & penawaran': 'Supply confirmation & quotation',
+  'Ketersediaan dari pemasok, harga, kemasan, dan ketentuan transaksi.': 'Supplier availability, pricing, packaging, and transaction terms.',
   'Rencanakan pengiriman': 'Plan delivery',
   'Jadwal, logistik, serta dokumen sesuai kesepakatan.': 'Schedule, logistics, and documentation as agreed.',
   'Pemenuhan ekspor mengikuti verifikasi persyaratan negara tujuan dan dokumen yang diperlukan.': 'Export fulfillment is subject to verification of destination country requirements and the necessary documentation.',
@@ -182,15 +139,12 @@ const translations = {
   'Ceritakan kebutuhan bisnis Anda. Hubungi tim kami untuk informasi produk dan permintaan penawaran.': 'Tell us about your business needs. Contact our team for product information and quotations.',
   'Mulai percakapan WhatsApp': 'Start a WhatsApp conversation',
   'TELEPON / WHATSAPP': 'PHONE / WHATSAPP',
-  'LOKASI OPERASIONAL': 'OPERATING LOCATION',
-  'Bojonegoro': 'Bojonegoro',
-  'Lihat wilayah Bojonegoro': 'View the Bojonegoro area',
   'Komoditas Nusantara.': 'Indonesian commodities.',
   'Untuk kemitraan yang tumbuh bersama.': 'For partnerships that grow together.',
   'Kembali ke atas ↑': 'Back to top ↑',
   'Navigasi utama': 'Main navigation',
   'PT. UNGKUL JAYA RAYA, beranda': 'PT. UNGKUL JAYA RAYA, home',
-  'PT. UNGKUL JAYA RAYA, distribusi kunyit, jahe, serai, lada hitam dan putih dari Bojonegoro untuk kebutuhan bisnis dan pasar ekspor.': 'PT. UNGKUL JAYA RAYA distributes turmeric, ginger, lemongrass, black and white pepper from Bojonegoro for business needs and export markets.'
+  'PT. UNGKUL JAYA RAYA, perusahaan perdagangan dan pemasok kunyit, jahe, serai, lada hitam dan putih untuk kebutuhan bisnis dan pasar ekspor.': 'PT. UNGKUL JAYA RAYA is a spice trading company supplying turmeric, ginger, lemongrass, black and white pepper for business needs and export markets.'
 };
 
 // Keep the original nodes so language changes preserve links, icons, and emphasis.
@@ -203,7 +157,7 @@ while (walker.nextNode()) {
   if (Object.hasOwn(translations, key)) translatedNodes.push({ node, original: node.textContent, key });
 }
 const translatedAttributes = [];
-document.querySelectorAll('[aria-label], [alt], meta[name="description"]').forEach(element => {
+document.querySelectorAll('[aria-label], [alt], meta[name="description"], meta[property="og:title"], meta[property="og:description"], meta[property="og:image:alt"], meta[name="twitter:title"], meta[name="twitter:description"], meta[name="twitter:image:alt"]').forEach(element => {
   const attribute = element.matches('meta') ? 'content' : element.hasAttribute('alt') ? 'alt' : 'aria-label';
   const original = element.getAttribute(attribute);
   if (Object.hasOwn(translations, original)) translatedAttributes.push({ element, attribute, original });
@@ -222,6 +176,7 @@ function updateMenuLabel() {
 function setLanguage(language) {
   const english = language === 'en';
   document.documentElement.lang = english ? 'en' : 'id';
+  document.querySelector('meta[property="og:locale"]').setAttribute('content', english ? 'en_US' : 'id_ID');
   languageSelect.value = document.documentElement.lang;
   translatedNodes.forEach(({ node, original, key }) => {
     node.textContent = english ? original.replace(key, translations[key]) : original;
@@ -239,7 +194,7 @@ function setLanguage(language) {
     const productName = translations[product] || product;
     url.searchParams.set('text', product
       ? (element.closest('.product-dialog')
-        ? `Hello PT. UNGKUL JAYA RAYA, I would like a quote for ${productName.toLowerCase()} and to discuss size and quality classifications.`
+        ? `Hello PT. UNGKUL JAYA RAYA, I would like a quote for ${productName.toLowerCase()} and to discuss product specifications and sourcing requirements.`
         : `Hello PT. UNGKUL JAYA RAYA, I would like information about your ${productName.toLowerCase()} products.`)
       : 'Hello PT. UNGKUL JAYA RAYA, I would like to discuss commodity sourcing.');
     element.setAttribute('href', url.href);

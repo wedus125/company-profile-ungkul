@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "PT. UNGKUL JAYA RAYA",
+  "short_name": "Ungkul Jaya Raya",
+  "description": "Perusahaan perdagangan dan pemasok rempah Indonesia.",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#143d2d",
+  "icons": [
+    { "src": "assets/brand/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/brand/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/brand/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
